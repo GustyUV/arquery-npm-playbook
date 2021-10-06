@@ -1,6 +1,6 @@
 {
   "name": "arquery-npm-playbook",
-  "version": "1.0.1",
+  "version": "1.1.0-beta.0",
   "description": "",
   "main": "index.js",
   "scripts": {
