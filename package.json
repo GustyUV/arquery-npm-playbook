@@ -1,0 +1,32 @@
+{
+  "name": "npm-playbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js",
+    "server-init": "python -m http.server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustyUV/npm-playbook.git"
+  },
+  "author": "Gustavo Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustyUV/npm-playbook/issues"
+  },
+  "homepage": "https://github.com/GustyUV/npm-playbook#readme",
+  "dependencies": {
+    "arquery-frame-print": "^1.0.0",
+    "express": "github:expressjs/express",
+    "npm-playbook": "gist:ff31c938c4dba71e43899e340e3aec31"
+  },
+  "devDependencies": {
+    "karma": "^6.3.4"
+  },
+  "keywords": [
+    "playbook"
+  ]
+}
